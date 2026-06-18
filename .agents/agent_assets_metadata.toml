@@ -1,0 +1,56 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "PtzR3f_4xgcMqL0RCas-j"
+uri = "file://artifacts/smile-care/src/assets/images/hero.png"
+type = "image"
+title = "hero dental reception"
+
+[[generated]]
+id = "iFbqeV3paBj43-PYRs5yN"
+uri = "file://artifacts/smile-care/src/assets/images/about.png"
+type = "image"
+title = "about clinic interior"
+
+[[generated]]
+id = "jRIfbkgkWWpSZ5mE5t2Ta"
+uri = "file://artifacts/smile-care/src/assets/images/dentist.png"
+type = "image"
+title = "dentist portrait"
+
+[[generated]]
+id = "Y641xCwh2fwnKgH__YIrM"
+uri = "file://artifacts/smile-care/src/assets/images/gallery-1.png"
+type = "image"
+title = "gallery reception"
+
+[[generated]]
+id = "XOEAlk2irQUMmIyJKaqCR"
+uri = "file://artifacts/smile-care/src/assets/images/gallery-2.png"
+type = "image"
+title = "gallery treatment room"
+
+[[generated]]
+id = "5rTNm7cJ17JnL82khSRBy"
+uri = "file://artifacts/smile-care/src/assets/images/gallery-3.png"
+type = "image"
+title = "gallery dentist patient"
+
+[[generated]]
+id = "Sp4gdYvvBpqAKb-y9ttM9"
+uri = "file://artifacts/smile-care/src/assets/images/gallery-4.png"
+type = "image"
+title = "gallery hygiene setup"
+
+[[generated]]
+id = "794Nlgvn_PhJL69d-IsdO"
+uri = "file://artifacts/smile-care/src/assets/images/gallery-5.png"
+type = "image"
+title = "gallery waiting area"
+
+[[generated]]
+id = "E3n5Jar-Q9Vkqe_Tcat0O"
+uri = "file://artifacts/smile-care/src/assets/images/gallery-6.png"
+type = "image"
+title = "gallery kids corner"

@@ -1,0 +1,57 @@
+Build a landing page website for a dental clinic called "Smile Care Dental Clinic" — a general and family dentistry practice.
+
+BRAND OVERVIEW:
+Smile Care Dental Clinic offers general dentistry, teeth cleaning, root canal treatment, orthodontics/braces, cosmetic dentistry/whitening, and pediatric dentistry. Brand personality: Trustworthy, Calm, Modern. Target audience: local Indian patients and families. Vibe: clean, medical, reassuring — not flashy.
+
+PAGE STRUCTURE (single landing page, in this order):
+1. Sticky Header — Logo on left, nav links: Home, About, Services, Dr. Profile, Gallery, Contact, and a "Book Appointment" CTA button on the right
+2. Hero Section — clean clinic/smile image, headline + short subheadline, "Book Appointment" primary CTA button and a "Call Now" secondary button
+3. About Section — 2-3 lines describing the clinic's mission and patient-care approach
+4. Services Section — 6 cards: General Checkup, Teeth Cleaning, Root Canal, Braces/Orthodontics, Cosmetic/Whitening, Pediatric Dentistry — each with a simple line icon, title, short description
+5. Meet the Dentist — doctor's photo, qualifications, years of experience, a short personal note about patient care philosophy
+6. Clinic Gallery — grid of clinic interior and equipment photos to build trust
+7. Why Choose Us — stats row (Patients Treated, Years of Experience, Happy Patients) plus 3-4 trust points (hygiene standards, modern equipment, comfortable treatment, experienced staff)
+8. Testimonials — 3 patient review cards with star ratings, name, and city
+9. FAQ Section — 4-5 common questions (clinic timings, insurance, walk-in vs appointment, emergency care)
+10. Footer — clinic address, phone number, working hours, social icons, Google Maps embed
+
+HEADER NAVIGATION RULES:
+- Logo/Home scrolls to top
+- About, Services, Dr. Profile, Gallery, Contact scroll smoothly to their matching sections
+- "Book Appointment" button (appears in header, hero, and footer) opens WhatsApp with a pre-filled message using a wa.me link, e.g.: https://wa.me/91XXXXXXXXXX?text=Hi%2C%20I%27d%20like%20to%20book%20a%20dental%20appointment — opens in a new tab
+- "Call Now" button uses a tel: link to open the phone dialer directly
+- Every button must lead to a real, working destination — no dead links
+
+ANIMATIONS (subtle only):
+- Smooth hover transitions on header links (200-300ms ease)
+- Smooth-scroll behavior on nav clicks (not instant jump)
+- Gentle fade-in/fade-up on sections and images as they scroll into view (once only, not looping)
+- Soft hover lift on CTA buttons with shadow increase
+- No autoplay carousels, no heavy parallax, no flashy or looping animations — the site should feel calm and professional
+
+COLOR PALETTE (use exactly these 3):
+- Deep Teal Blue #1F4E5F — headings, header background, primary buttons
+- Soft Mint Teal #5FA8A0 — accents, icons, hover states, secondary button outlines
+- Off-White/Pale Mint #F7FAFA — section backgrounds, cards
+
+TYPOGRAPHY:
+- Headings: clean modern sans-serif with rounded feel (e.g., Poppins or Nunito Sans), 32-44px desktop, semi-bold
+- Body text: highly readable sans-serif (e.g., Inter), 16-18px, regular weight
+- CTAs/labels: same as body, medium-bold weight, sentence case (not uppercase) — keep tone gentle
+- Avoid italic styling almost entirely
+- Bold used only for key reassurance phrases within paragraphs (e.g., "Painless Treatment," "20+ Years Experience")
+
+UI/UX DIRECTION:
+- Symmetric, grid-based layout with generous whitespace — organized and clean, not artsy
+- Consistent calm padding (60-80px) between sections
+- Bright, well-lit clinic and doctor photos with warm, friendly expressions — no overly clinical or unsettling close-up procedure images
+- Simple line-style icons for services with consistent stroke weight
+
+WHAT TO AVOID:
+- No dark or heavy color schemes
+- No graphic/close-up dental procedure images
+- No cluttered multi-CTA screens — "Book Appointment" should be the single primary action throughout
+- No autoplay video or aggressive pop-ups
+- No exaggerated or fake claims in the copy — keep all text honest and professional
+
+Make the site fully mobile responsive — header collapses into a hamburger menu, sections stack in a single column, font sizes scale down appropriately, and WhatsApp/Call buttons stay easily tappable on mobile (minimum 44px touch target).
